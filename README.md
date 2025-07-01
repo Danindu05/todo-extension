@@ -1,7 +1,7 @@
-✅ Todo Extension  
+# ✅ Todo Extension  
 A simple ToDo list browser extension.
 
-🌐 Features  
+## 🌐 Features  
 - **Add Tasks** — Quickly add new to-dos  
 - **Edit/Delete Tasks** — Update or remove tasks as needed  
 - **Persistent Storage** — Your tasks stay saved between browser sessions  
